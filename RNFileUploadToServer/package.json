@@ -1,0 +1,30 @@
+{
+  "name": "react-native-file-upload-to-server-ios",
+  "version": "0.1.0",
+  "description": "A react-native interface for uploading a file in the app documents directory to an external server.",
+  "main": "index.ios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "upload file",
+    "upload to server"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com:rhaker/react-native-file-upload-to-server-ios.git"
+  },
+  "author": "rhaker <email@example.com> (http://github.com/rhaker)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhaker/react-native-file-upload-to-server-ios/issues"
+  },
+  "homepage": "https://github.com/rhaker/react-native-file-upload-to-server-ios",
+  "dependencies": {
+    "react-native": "^0.10.0"
+  },
+  "devDependencies": {}
+}
