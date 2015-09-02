@@ -6,7 +6,7 @@ This is a wrapper for react-native that uploads a file in the app documents dire
 
 You can use this package together with my other react-native packages. A typical workflow could be:
 
-1) Check if file exists to upload - use react-check-if-file-exists-ios
+1) Check if file exists to upload - use react-native-check-file-exists-ios
 
 2) If file does not exist, create blank file - use react-native-create-new-file-ios (then edit the file in your app)
 
