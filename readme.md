@@ -42,7 +42,7 @@ var uploadObject = {
 
     filename: 'MyFile.txt',
 
-    uploadUrl: 'http:/www.goldiespeak.com/upload.php',
+    uploadUrl: 'http:/www.example.com/upload.php',
 
     // optional - key:value pairs for file metadata
     fields: {
