@@ -1,6 +1,7 @@
 <?
+// EXAMPLE TO HANDLE FILE UPLOAD ON THE SERVER
 
-// To see the complete file ibase_db_info
+// To see the complete file use var_dump
 echo "Files: ";
 var_dump($_FILES);
 

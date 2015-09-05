@@ -4,10 +4,9 @@
  */
 'use strict';
 
-var {
-    RNFileUploadToServer
-} = require('NativeModules');
-
+var React = require('react-native');
+var { NativeModules } = React;
+var { RNFileUploadToServer } = NativeModules;
 
 var {
   AppRegistry,
