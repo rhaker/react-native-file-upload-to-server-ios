@@ -1,6 +1,6 @@
 # react-native-file-upload-to-server-ios
 
-This is a wrapper for react-native that uploads a file in the app documents directory to an external server. This a stripped down, dead simple version of react-native-file-upload by booxood (github.com/booxood/react-native-file-upload). If you want more control over the upload configuration (e.g. setting mimeType or the base directory of the upload file) please use react-native-file-upload.
+This is a wrapper for react-native that uploads a file in the app documents directory to an external server. This a stripped down, dead simple version of react-native-file-upload by booxood (github.com/booxood/react-native-file-upload). If you want more control over the upload configuration (e.g. setting mimeType or the base directory of the upload file) please use react-native-file-upload. This is for ios.
 
 # Additional Notes
 
