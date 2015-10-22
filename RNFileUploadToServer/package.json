@@ -1,6 +1,6 @@
 {
   "name": "react-native-file-upload-to-server-ios",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A react-native interface for uploading a file in the app documents directory to an external server.",
   "main": "index.ios.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rhaker/react-native-file-upload-to-server-ios",
   "dependencies": {
-    "react-native": "^0.10.0"
+    "react-native": "^0.12.0"
   },
   "devDependencies": {}
 }
